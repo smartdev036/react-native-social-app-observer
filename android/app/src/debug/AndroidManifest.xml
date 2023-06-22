@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <application
+        android:usesCleartextTraffic="true"
+        tools:targetApi="28"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" android:exported="false" />
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyBHsWgntjliZSXzgT6EGWg3L2CLL-4bS_4"/>
+        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-2279515940012176~7546513066"  tools:replace="android:value" />
+    </application>
+</manifest>

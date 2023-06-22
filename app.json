@@ -1,0 +1,10 @@
+{
+  "name": "Observador",
+  "displayName": "Observador",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-2279515940012176~7546513066",
+    "ios_app_id": "ca-app-pub-2279515940012176~6233431391",
+    "delay_app_measurement_init": true,
+    "user_tracking_usage_description": "This identifier will be used to deliver personalized ads to you."
+  }
+}

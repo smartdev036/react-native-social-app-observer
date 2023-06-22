@@ -1,0 +1,17 @@
+export const API_RADIO_BASE_URL = 'https://onair.observador.pt';
+export const API_RADIO_STREAM_URL = 'https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.m3u8';
+export const URL_PROGRAMS = 'https://observador.pt/programas';
+export const URL_PROGRAMMING = 'https://observador.pt/radio/programacao';
+export const URL_TERMS = 'https://observador.pt/termos-e-condicoes/';
+export const URL_POLICY_COOKIES = 'https://observador.pt/politica-de-privacidade/';
+export const API_URL = 'https://api.observador.pt/v5';
+export const URL_QUIOSQUE_REGISTER = 'https://quiosque.observador.pt/v2/devices/register';
+export const URL_QUIOSQUE = 'https://quiosque.observador.pt/v2';
+export const API_LOGIN = 'https://auth.observador.pt';
+export const API_SAVE = 'https://save.observador.pt';
+export const API_EVENT = 'https://events.observador.pt';
+export const API_BARBEIRO = 'https://barbeiro.observador.pt';
+export const API_PODCASTS = 'https://podcasts.observador.pt/v0';
+export const API_SININHO = 'https://sininho.observador.pt/';
+export const API_PIANO = 'https://api.piano.io/api/v3';
+export const API_BARQUEIRO = 'https://barqueiro.observador.pt/auth';

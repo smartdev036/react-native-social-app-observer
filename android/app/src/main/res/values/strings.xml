@@ -1,0 +1,8 @@
+<resources>
+  <string name="expo_splash_screen_resize_mode" translatable="false">cover</string>
+  <string name="app_name">Observador</string>
+  <string name="facebook_app_id">1388666054753245</string>
+  <string name="facebook_client_token">478f897e63cfdd89176db13fe5523a81</string>
+  <string name="appwidget_text">Abra a aplicação para carregar o conteúdo</string>
+  <string name="add_widget">Adicionar Widget</string>
+</resources>

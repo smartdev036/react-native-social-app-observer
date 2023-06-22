@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/HalyardText-Bd.otf",
+      "sha1": "cbf257348713a1565c5437368003b8d2a7124910"
+    },
+    {
+      "path": "src/assets/fonts/HalyardText-Reg.otf",
+      "sha1": "98306bfad297635ca4f0ee74b4d57e1c58fffc49"
+    },
+    {
+      "path": "src/assets/fonts/HalyardTextBook.otf",
+      "sha1": "ccf34985af054746cb9ef2178a1077d767751f84"
+    },
+    {
+      "path": "src/assets/fonts/HalyardTextSemBd.otf",
+      "sha1": "ff5905f83cacf61f192ae62fb0723888c4d8b752"
+    },
+    {
+      "path": "src/assets/fonts/NotoSerif-Bold.ttf",
+      "sha1": "67657211b4aab3678c4d151c7ade4854ad9f31c6"
+    },
+    {
+      "path": "src/assets/fonts/NotoSerif-BoldItalic.ttf",
+      "sha1": "ef380a3dc5c3cb69323f6e0c049f03f55f0cb6d9"
+    },
+    {
+      "path": "src/assets/fonts/NotoSerif-Italic.ttf",
+      "sha1": "cd26076fde1590e053dc2adfaa60df32cc4e2be0"
+    },
+    {
+      "path": "src/assets/fonts/NotoSerif-Regular.ttf",
+      "sha1": "932fd8db924b420ebc515a98f6f123807f37995c"
+    }
+  ]
+}

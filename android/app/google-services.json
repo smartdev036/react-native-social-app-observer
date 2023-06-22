@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "439313482366",
+    "firebase_url": "https://infinite-zephyr-92311.firebaseio.com",
+    "project_id": "infinite-zephyr-92311",
+    "storage_bucket": "infinite-zephyr-92311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439313482366:android:3a8f90a3a61d8b51250e2f",
+        "android_client_info": {
+          "package_name": "pt.observador.mobile.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxDwdlxYsmg2Tn_BHEFuXB2DOxyihE1uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439313482366-atsnt0cdcm5co8pdh2r4n2um3ndmma7s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439313482366-5c51avrqphjv9j3noo2b4rcd8ufnult9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pt.observador.ios.Observador"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439313482366:android:8c63713487e8d68a",
+        "android_client_info": {
+          "package_name": "pt.observador.mobile.android.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxDwdlxYsmg2Tn_BHEFuXB2DOxyihE1uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439313482366-atsnt0cdcm5co8pdh2r4n2um3ndmma7s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439313482366-5c51avrqphjv9j3noo2b4rcd8ufnult9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pt.observador.ios.Observador"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
